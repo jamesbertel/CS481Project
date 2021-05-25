@@ -2,7 +2,7 @@
 
 ## Background 
 
-Toontown Rewritten (TTR) is a turn-based Massively Multiplayer Online Role-Playing Game (MMORPG) based on Disney’s now-defunct Toontown Online, which ran from 2002 to 2013. 
+Toontown Rewritten (TTR) is a turn-based Massively Multiplayer Online Role-Playing Game (MMORPG) based on Disney’s now-defunct Toontown Online, which ran from 2002 to 2013.
 TTR takes place in the fictional world of Toontown, where wacky and colorful cartoon characters called ‘Toons’ reside. 
 In the game, an army of dull corporate robots known as ‘Cogs’ attack the town to put an end to their fun. 
 Lucky for toons, the Cogs can’t take a joke, so Toons fight the Cogs by using gags. 
